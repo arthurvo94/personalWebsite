@@ -1,0 +1,12 @@
+Personalize background color
+
+Add typing animation in Header
+
+Add description in Hero/about me
+
+maybe add timeline
+
+
+
+npm run build
+
